@@ -1,17 +1,14 @@
 # Household
 
-A new Flutter project.
+- 家計簿アプリ
+- flutter練習用
+- 参考Udemy
 
-## Getting Started
+# 構成
 
-This project is a starting point for a Flutter application.
+- ユーザー側が品物と金額、日付を入力できる
+- 日付の入力はカレンダーを表示させて行う
 
-A few resources to get you started if this is your first Flutter project:
+# 7/14追記　
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Household
+- vue.jsを勉強しないといけなくなったので数日更新を休む

@@ -52,14 +52,11 @@ class MyHomePage extends StatelessWidget {
             ),
           ),
           Column(
-            children: <Widget>[
-              Card(),
-              Card(),
-              Card(),
-              Card(),
-              Card(),
-              Card(),
-            ],
+            children: transactions.map((tx) {
+              return Card(
+                child: Text(tx.title),
+              );
+            }).toList(),
           ),
         ],
       ),
