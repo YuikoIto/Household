@@ -77,7 +77,10 @@ class MyHomePage extends StatelessWidget {
                   FlatButton(
                     child: Text('Add'),
                     textColor: Colors.purple,
-                    onPressed: () {},
+                    onPressed: () {
+                      print(titleInput);
+                      print(amountInput);
+                    },
                   ),
                 ],
               ),
